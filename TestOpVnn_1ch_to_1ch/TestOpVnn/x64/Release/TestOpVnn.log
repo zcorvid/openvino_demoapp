@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  TestOpVnn.cpp
+  Generating code
+  1325 of 1331 functions (99.5%) were compiled, the rest were copied from previous compilation.
+    18 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TestOpVnn.vcxproj -> C:\Users\pveryovkin\Desktop\info_OpenVINO\!ok\TestOpVnn - 1ch-good\x64\Release\TestOpVnn.exe
